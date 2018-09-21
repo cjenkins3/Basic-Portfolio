@@ -14,10 +14,10 @@ nav {
     position: absolute;
     float: left;
     color: white;
-    background-color: #4aaaa5; 
-    top: 0.3em;
+    background-color: #4aaaa5;
+    top: 0; 
     left: 4em;
-    padding: 1.3em;
+    padding: 1.45em;
 }
 .nav-menu {
     float: left;
